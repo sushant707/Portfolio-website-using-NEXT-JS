@@ -34,9 +34,9 @@ export default function Introduction() {
               initial={{ opacity: 0 }}
               animate={{ opacity: 1 }}
               transition={{ duration: 0.5 }}
-              className="text-2xl  font-bold tracking-tight text-gray-500 font sm:text-4xl"
+              className="text-2xl  font-bold tracking-tight text-gray-600 font sm:text-4xl"
             >
-              I&apos;m Sushant. I&apos;m a Developer
+              I&apos;m Sushant. I&apos;m a Web Developer
             </motion.div>
           </div>
           <div>
