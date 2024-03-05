@@ -26,14 +26,14 @@ export default function Skills() {
 }
 
 export const skills = [
-  {
-    name: "Html 5",
-    icon: "https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-html-logo-0.png",
-  },
-  {
-    name: "CSS 3",
-    icon: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQylNvv3eXJYKhdIUYnyeBWXdquSbDcK2XFag&usqp=CAU",
-  },
+  // {
+  //   name: "Html 5",
+  //   icon: "https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-html-logo-0.png",
+  // },
+  // {
+  //   name: "CSS 3",
+  //   icon: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQylNvv3eXJYKhdIUYnyeBWXdquSbDcK2XFag&usqp=CAU",
+  // },
   {
     name: "Javascript",
     icon: "https://www.freepnglogos.com/uploads/javascript-png/javascript-vector-logo-yellow-png-transparent-javascript-vector-12.png",
