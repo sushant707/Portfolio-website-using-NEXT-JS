@@ -27,6 +27,23 @@ export default function Skills() {
 
 export const skills = [
   {
+    name: "Html 5",
+    icon: "https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-html-logo-0.png",
+  },
+  {
+    name: "CSS 3",
+    icon: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQylNvv3eXJYKhdIUYnyeBWXdquSbDcK2XFag&usqp=CAU",
+  },
+  {
+    name: "Javascript",
+    icon: "https://www.freepnglogos.com/uploads/javascript-png/javascript-vector-logo-yellow-png-transparent-javascript-vector-12.png",
+    category: "Mobile",
+  },
+  {
+    name: "Bootstrap",
+    icon: "https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg",
+  },
+  {
     name: "ReactJs",
     icon: "https://reactjs.org/logo-og.png",
     category: "Frontend",
@@ -37,21 +54,12 @@ export const skills = [
     category: "ReactJS Framework",
   },
   {
-    name: "Bootstrap",
-    icon: "https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg",
-  },
-  {
     name: "Tailwind CSS",
     icon: "https://dmtgy0px4zdqn.cloudfront.net/images/integrations/tailwindcss.webp",
   },
   {
     name: "Github",
     icon: "https://seeklogo.com/images/G/github-logo-2E3852456C-seeklogo.com.png",
-  },
-  {
-    name: "Javascript",
-    icon: "https://www.freepnglogos.com/uploads/javascript-png/javascript-vector-logo-yellow-png-transparent-javascript-vector-12.png",
-    category: "Mobile",
   },
   {
     name: "Vercel",
