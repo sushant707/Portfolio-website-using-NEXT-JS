@@ -24,7 +24,7 @@ export default function Services() {
 const services = [
   {
     name: "Front-end development",
-    image: "https://www.intelligenceray.com/wp-content/uploads/2020/12/md3.png",
+    image: "https://img.freepik.com/free-vector/web-developers-courses-computer-programming-web-design-script-coding-study-computer-science-student-learning-interface-structure-components_335657-2542.jpg",
     description: "Front-end developers design and implement the visual elements and user interactions of websites and web applications using HTML, CSS, and JavaScript."
   },
   {
@@ -32,9 +32,9 @@ const services = [
     image: "https://img.freepik.com/free-vector/web-developers-courses-computer-programming-web-design-script-coding-study-computer-science-student-learning-interface-structure-components_335657-2542.jpg",
     description: "Develop Web Applications using React, MERN, Node, Express"
   },
-  {
-    name: "MVP Products",
-    image: "https://img.freepik.com/free-vector/web-developers-courses-computer-programming-web-design-script-coding-study-computer-science-student-learning-interface-structure-components_335657-2542.jpg",
-    description: "Build Fast MVP Products"
-  },
+  // {
+  //   name: "MVP Products",
+  //   image: "https://img.freepik.com/free-vector/web-developers-courses-computer-programming-web-design-script-coding-study-computer-science-student-learning-interface-structure-components_335657-2542.jpg",
+  //   description: "Build Fast MVP Products"
+  // },
 ]
